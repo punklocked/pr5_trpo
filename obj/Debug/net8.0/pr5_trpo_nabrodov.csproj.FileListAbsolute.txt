@@ -1,0 +1,15 @@
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\bin\Debug\net8.0\pr5_trpo_nabrodov.exe
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\bin\Debug\net8.0\pr5_trpo_nabrodov.deps.json
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\bin\Debug\net8.0\pr5_trpo_nabrodov.runtimeconfig.json
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\bin\Debug\net8.0\pr5_trpo_nabrodov.dll
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\bin\Debug\net8.0\pr5_trpo_nabrodov.pdb
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\obj\Debug\net8.0\pr5_trpo_nabrodov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\obj\Debug\net8.0\pr5_trpo_nabrodov.AssemblyInfoInputs.cache
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\obj\Debug\net8.0\pr5_trpo_nabrodov.AssemblyInfo.cs
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\obj\Debug\net8.0\pr5_trpo_nabrodov.csproj.CoreCompileInputs.cache
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\obj\Debug\net8.0\pr5_trpo_nabrodov.dll
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\obj\Debug\net8.0\refint\pr5_trpo_nabrodov.dll
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\obj\Debug\net8.0\pr5_trpo_nabrodov.pdb
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\obj\Debug\net8.0\pr5_trpo_nabrodov.genruntimeconfig.cache
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\obj\Debug\net8.0\ref\pr5_trpo_nabrodov.dll
+C:\Users\Natvoril\Desktop\pr5_trpo_nabrodov\obj\Debug\net8.0\pr5_trpo.805E119D.Up2Date
